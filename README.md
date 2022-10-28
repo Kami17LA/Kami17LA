@@ -6,9 +6,9 @@
 ## Connect with me:
 
 <p align="start">
-<p justify-content="space-betwen">
-<a href = "https://www.linkedin.com/in/katherine-milagros-quispe-pantoja-a563b51b2/"> <img src="https://cdn-icons-png.flaticon.com/512/725/725337.png" width="50"/></a>
+<a href = "https://www.linkedin.com/in/katherine-milagros-quispe-pantoja-a563b51b2/"> <img src="https://cdn-icons-png.flaticon.com/512/725/725337.png" width="50"/></a><br>
 <a href = "katherine.quispepantoja@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/324/324123.png" width="50"/></a>
+<br>
 <a href = "https://twitter.com/LatechKami"> <img src="https://cdn-icons-png.flaticon.com/512/2335/2335289.png" width="50"/> </a>
 </p>
 
