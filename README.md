@@ -17,13 +17,13 @@
 ```javascript
 const Kami = {
   pronouns: "she" | "her",
-  code: [Javascript, React, HTML, CSS, Firebase, Node JS],
+  code: [Javascript, React, HTML, CSS, Firebase, Node.JS],
   soft skills: [Empathetic, Effective Communication, Resilient, Committed],
   techCommunities: {
                         volunteer: "Global Shapers",
                         ambassador: "Women Biz - Web3"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  phrase: "For the great projects of life, optimistic people are needed!!"
 }
 ```
 
