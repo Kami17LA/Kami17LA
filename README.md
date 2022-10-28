@@ -5,10 +5,10 @@
 
 ## Connect with me:
 
-<p align="center">
-<a href = "https://www.linkedin.com/in/katherine-milagros-quispe-pantoja-a563b51b2/"> <img src="https://cdn-icons-png.flaticon.com/512/725/725337.png" width="80"/></a>
-<a href = "katherine.quispepantoja@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/324/324123.png" width="80"/></a>
-<a href = "https://twitter.com/LatechKami"> <img src="https://cdn-icons-png.flaticon.com/512/2335/2335289.png" width="80"/> </a>
+<p align="start">
+<a href = "https://www.linkedin.com/in/katherine-milagros-quispe-pantoja-a563b51b2/"> <img src="https://cdn-icons-png.flaticon.com/512/725/725337.png" width="50"/></a>
+<a href = "katherine.quispepantoja@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/324/324123.png" width="50"/></a>
+<a href = "https://twitter.com/LatechKami"> <img src="https://cdn-icons-png.flaticon.com/512/2335/2335289.png" width="50"/> </a>
 </p>
 
 
